@@ -1,0 +1,2 @@
+# GeneMethyl
+Python Package / By this package, you can simply calculate the epigenetic result caused by a specific disease and reveal the relationship between the epigenetic effect and specific genes' expressions. For numerous samples of a specific disease, you can get a correlation value between gene expression levels and summations calculated from DNA methylation beta-values. Additionally you can simply know beta-value distribution by density plot.
